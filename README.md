@@ -84,7 +84,7 @@ Password: guest
 # Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sample-ecommerce-microservices-rabbitmq.git
+git clone https://github.com/muizali25/rabbitmq-microservices-sample.git
 ```
 
 ---
@@ -145,7 +145,7 @@ POST /orders
 Example URL:
 
 ```text
-https://localhost:7001/orders
+[https://localhost:7001/orders](http://localhost:5094/orders)
 ```
 
 ---
