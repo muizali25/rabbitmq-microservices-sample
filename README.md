@@ -118,7 +118,7 @@ Both services will start together.
 
 ## Run OrderService
 
-```bash
+```command promt 
 cd OrderService
 dotnet run
 ```
@@ -145,7 +145,7 @@ POST /orders
 Example URL:
 
 ```text
-[https://localhost:7001/orders](http://localhost:5094/orders)
+http://localhost:5094/orders
 ```
 
 ---
@@ -241,19 +241,5 @@ Benefits:
 * Queue-based communication
 * Reliable message delivery
 * Better microservices architecture
-
----
-
-# Learning Goals
-
-This project helps understand:
-
-* Microservices basics
-* RabbitMQ basics
-* Producer / Consumer pattern
-* BackgroundService
-* Queue messaging
-* Asynchronous communication
-* Event-driven architecture
 
 ---
